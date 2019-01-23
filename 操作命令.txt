@@ -1,0 +1,4 @@
+#第一步python manage.py makemigrations
+#第二部python manage.py migrate
+#第三部python manage.py sqlmigrate blog 0001
+#传递数据return render(request,'blog/index.html')
